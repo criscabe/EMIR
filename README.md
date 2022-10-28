@@ -15,5 +15,5 @@ Maintainer: Cristina Cabello, criscabe@ucm.es Webpage (source): https://github.c
 
 
 <p align="center">
-<img src="images/EMIR_pic.png" width="80%"></a>
+<img src="images/EMIR_pic.png" width="80%">
 </p>
